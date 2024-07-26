@@ -2,7 +2,7 @@
     "name": "noda-payments/module-payments-wp",
     "type": "library",
     "licence": "GPLv3",
-	"version": "1.0.1",
+	"version": "1.0.2",
     "require": {
         "php": "^7.0.3",
         "ext-json": "*"
